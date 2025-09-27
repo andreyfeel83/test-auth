@@ -1,13 +1,11 @@
-@import "tailwindcss";
-@plugin "flowbite-react/plugin/tailwindcss";
-@source "../.flowbite-react/class-list.json";
+@import 'tailwindcss';
 
-body {
- margin: 0;
- padding: 0;
- box-sizing: border-box;
+:root {
+  --text-color: rgba(0, 0, 0, 0.88);
 }
 
-:root{
-    background: rgba(245, 245, 245, 1);
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }

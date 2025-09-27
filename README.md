@@ -5,11 +5,12 @@ The app simulates a login screen using a username and password with two-factor a
 
 ## 🛠 Technologies
 
-- React 18+
+- React 19+
 - TypeScript
 - Vite
 - Tailwind CSS
-- Fetch API
+- Zod
+- TanStack Query
 
 ---
 
